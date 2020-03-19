@@ -19,6 +19,6 @@
 
 Желательно предоставить отдельно исходный код для базовой версии программы и версии с улучшениями.
 
-![img](https://github.com/ElmarDusaev/CatchMeIfYouCan-Improved-/blob/master/imgSplash.png)
+![Splash](https://github.com/ElmarDusaev/CatchMeIfYouCan-Improved-/blob/master/imgSplash.png)
 
-![img](https://github.com/ElmarDusaev/CatchMeIfYouCan-Improved-/blob/master/imgGame.png)
+![Game](https://github.com/ElmarDusaev/CatchMeIfYouCan-Improved-/blob/master/imgGame.png)
