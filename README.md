@@ -21,4 +21,4 @@
 
 ![Splash](https://github.com/ElmarDusaev/CatchMeIfYouCan-Improved-/blob/master/imgSplash.PNG)
 
-![Game](https://github.com/ElmarDusaev/CatchMeIfYouCan-Improved-/blob/master/imgSplash.PNG)
+![Game](https://github.com/ElmarDusaev/CatchMeIfYouCan-Improved-/blob/master/imgGame.PNG)
