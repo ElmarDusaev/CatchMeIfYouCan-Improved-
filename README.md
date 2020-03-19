@@ -18,3 +18,7 @@
 2) добавить возможность многопользовательской игры, используя общую папку, доступную с разных компьютеров
 
 Желательно предоставить отдельно исходный код для базовой версии программы и версии с улучшениями.
+
+![img](https://github.com/ElmarDusaev/CatchMeIfYouCan-Improved-/blob/master/imgSplash.png)
+
+![img](https://github.com/ElmarDusaev/CatchMeIfYouCan-Improved-/blob/master/imgGame.png)
