@@ -1,4 +1,4 @@
-![alt text](https://github.com/ElmarDusaev/CatchMeIfYouCan-Improved-/blob/master/image.png)
+![text](https://github.com/ElmarDusaev/CatchMeIfYouCan-Improved-/blob/master/image.png)
 
 Реализовать в виде консольного приложения следующую игру:
 На поле следующего вида:
